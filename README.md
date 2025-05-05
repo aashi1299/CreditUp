@@ -25,7 +25,7 @@ simple-credit-score/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/simple-credit-score.git
+   git clone https://github.com/aashi1299/simple-credit-score.git
    ```
 2. **Open `index.html` in any browser.**
 3. **Input your financial data.**
